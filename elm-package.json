@@ -1,0 +1,13 @@
+{
+    "version": "1.0.0",
+    "summary": "Demonstration of a cache invalidation bug in the Elm 0.14 compiler.",
+    "repository": "https://github.com/jwmerrill/elm-compiler-stale-cache.git",
+    "license": "BSD3",
+    "source-directories": [
+        "src"
+    ],
+    "exposed-modules": [],
+    "dependencies": {
+        "elm-lang/core": "1.0.0 <= v < 2.0.0"
+    }
+}
